@@ -1,0 +1,47 @@
+/*Column Division*/
+.col-01{width:8.3333%;}
+.col-02{width:16.6666%;}
+.col-03{width:24.9999%;}
+.col-04{width:33.3332%;}
+.col-05{width:41.6666%;}
+.col-06{width:50%;}
+.col-07{width:58.3331%;}
+.col-08{width:66.6664%;}
+.col-09{width:74.9997%;}
+.col-10{width:83.333%;}
+.col-11{width:91.6663%;}
+.col-12{width:100%;}
+/*column end*/
+.hero{background: url(../img/nature.jpg);
+      background-size: cover;
+	  background-attachment: fixed;
+      width:1350px; height:100%; margin-bottom:0px;font-family:sans-serif; }
+
+.menu-bar{background:#231364cc; text-align:center;}
+
+.menu-bar ul{display:inline-flex; list-style-type:none; color:#fff;}
+
+.menu-bar ul li{width:100px; margin:10px; padding:10px;}
+
+.menu-bar ul li a{list-style-type:none; color:#fff; text-decoration:none;} 
+
+.active,.menu-bar ul li:hover{background:#ac48f76e; border-radius:5px;}
+
+.menu-bar .fa{margin-right:8px;}
+
+/*.sub-menu-1{display:none;}
+
+.menu-bar ul li:hover{display:block;
+                                  position:absolute;
+								  background:#231364cc;
+								  margin-left:-15px;
+								  margin-top:15px;}
+								  
+.menu-bar ul li:hover.sub-menu-1 ul{display:block; margin:10px;}
+.sub-menu-1{display:block; background-color:#ac48f76e;}	
+
+.sub-menu-1 ul{display:block;margin:10px;}								  
+								  
+.sub-menu-1 ul li{width:150px;padding:10px;}*/
+
+
